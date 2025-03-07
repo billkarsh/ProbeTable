@@ -1,0 +1,14 @@
+Note: Tables encode z_meta/table_version.
+
+===========
+Version 1.1
+===========
+- Fix enumerated SpikeGLX type codes for imro format 1000.
+- Fix type code for imro format 2003, 2013.
+
+===========
+Version 1.0
+===========
+- Initial
+
+
