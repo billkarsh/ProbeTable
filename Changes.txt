@@ -3,6 +3,8 @@ Note: Tables encode z_meta/table_version.
 ===========
 Version 1.4
 ===========
+- Add NP1.0 probes NP1000, NP1001.
+- Add NXT probe NP3022.
 - Add lf_sample_frequency_hz.
 
 ===========
