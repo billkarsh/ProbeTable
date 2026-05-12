@@ -1,6 +1,11 @@
 Note: Tables encode z_meta/table_version.
 
 ===========
+Version 1.7
+===========
+- All imro_XXX_val_def now reflect: type:pn|{codes}.
+
+===========
 Version 1.6
 ===========
 - Add NHP probes NP1040, NP1041, NP1042, NP1050, NP1051.
