@@ -1,6 +1,13 @@
 Note: Tables encode z_meta/table_version.
 
 ===========
+Version 1.8
+===========
+- Add OPTO NP1400.
+- Add QB NP2022.
+- Add NXT NP3012.
+
+===========
 Version 1.7
 ===========
 - All imro_XXX_val_def now reflect: type:pn|{codes}.
